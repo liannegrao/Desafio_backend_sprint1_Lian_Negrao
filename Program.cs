@@ -19,7 +19,7 @@ namespace Desafio_backend_sprint1_Lian_Negrão
             {
                 Console.Clear();
                 ExibirMenu();
-                string opcao = Console.ReadLine();
+                string opcao = Console.ReadLine()!;
 
                 // try/catch: se o usuário digitar algo inválido em qualquer opção,
                 // o programa avisa o erro em vez de quebrar.
