@@ -12,7 +12,7 @@ using System;
 using System.Reflection;
 
 [assembly: System.Reflection.AssemblyCompanyAttribute("Desafio_backend_sprint1_Lian_Negrão")]
-[assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
+[assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8f24e2ca599487c334e33c28f9941bfb66d9a6e4")]
 [assembly: System.Reflection.AssemblyProductAttribute("Desafio_backend_sprint1_Lian_Negrão")]

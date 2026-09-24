@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\023.933404\\source\\repos\\Desafio_backend_sprint1_Lian_Negrão\\Desafio_backend_sprint1_Lian_Negrão\\Desafio_backend_sprint1_Lian_Negrão.csproj": {}
+    "C:\\Users\\023.933404\\source\\repos\\Desafio_backend_sprint1_Lian_Negrao\\Desafio_backend_sprint1_Lian_Negrão.csproj": {}
   },
   "projects": {
-    "C:\\Users\\023.933404\\source\\repos\\Desafio_backend_sprint1_Lian_Negrão\\Desafio_backend_sprint1_Lian_Negrão\\Desafio_backend_sprint1_Lian_Negrão.csproj": {
+    "C:\\Users\\023.933404\\source\\repos\\Desafio_backend_sprint1_Lian_Negrao\\Desafio_backend_sprint1_Lian_Negrão.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\023.933404\\source\\repos\\Desafio_backend_sprint1_Lian_Negrão\\Desafio_backend_sprint1_Lian_Negrão\\Desafio_backend_sprint1_Lian_Negrão.csproj",
+        "projectUniqueName": "C:\\Users\\023.933404\\source\\repos\\Desafio_backend_sprint1_Lian_Negrao\\Desafio_backend_sprint1_Lian_Negrão.csproj",
         "projectName": "Desafio_backend_sprint1_Lian_Negrão",
-        "projectPath": "C:\\Users\\023.933404\\source\\repos\\Desafio_backend_sprint1_Lian_Negrão\\Desafio_backend_sprint1_Lian_Negrão\\Desafio_backend_sprint1_Lian_Negrão.csproj",
+        "projectPath": "C:\\Users\\023.933404\\source\\repos\\Desafio_backend_sprint1_Lian_Negrao\\Desafio_backend_sprint1_Lian_Negrão.csproj",
         "packagesPath": "C:\\Users\\023.933404\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\023.933404\\source\\repos\\Desafio_backend_sprint1_Lian_Negrão\\Desafio_backend_sprint1_Lian_Negrão\\obj\\",
+        "outputPath": "C:\\Users\\023.933404\\source\\repos\\Desafio_backend_sprint1_Lian_Negrao\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
