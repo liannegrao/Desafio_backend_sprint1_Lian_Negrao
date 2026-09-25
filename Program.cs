@@ -10,6 +10,10 @@ namespace Desafio_backend_sprint1_Lian_Negrão
         static void Main(string[] args)
         {
 
+            // Configura o console para UTF-8 para exibir corretamente ASCII art
+            Console.OutputEncoding = System.Text.Encoding.UTF8;
+            Console.InputEncoding = System.Text.Encoding.UTF8;
+
             Pedido pedido = new Pedido(1);
             bool continuar = true;
 
@@ -111,7 +115,13 @@ namespace Desafio_backend_sprint1_Lian_Negrão
         static void ExibirMenu()
         {
             Console.WriteLine();
-            Console.WriteLine("===== SISTEMA DE PEDIDOS - LANCHONETE =====");
+            Console.WriteLine(@"                                                                                                                                                                                                
+                                                                                                                                                                                                
+  ▄█████ ██ ▄█████ ██████ ██████ ██▄  ▄██ ▄████▄   ████▄  ██████   █████▄ ██████ ████▄  ██ ████▄  ▄████▄ ▄█████         ██     ▄████▄ ███  ██ ▄█████ ██  ██ ▄████▄ ███  ██ ██████ ██████ ██████ 
+  ▀▀▀▄▄▄ ██ ▀▀▀▄▄▄   ██   ██▄▄   ██ ▀▀ ██ ██▄▄██   ██  ██ ██▄▄     ██▄▄█▀ ██▄▄   ██  ██ ██ ██  ██ ██  ██ ▀▀▀▄▄▄   ▄▄▄   ██     ██▄▄██ ██ ▀▄██ ██     ██████ ██  ██ ██ ▀▄██ ██▄▄     ██   ██▄▄   
+  █████▀ ██ █████▀   ██   ██▄▄▄▄ ██    ██ ██  ██   ████▀  ██▄▄▄▄   ██     ██▄▄▄▄ ████▀  ██ ████▀  ▀████▀ █████▀         ██████ ██  ██ ██   ██ ▀█████ ██  ██ ▀████▀ ██   ██ ██▄▄▄▄   ██   ██▄▄▄▄ 
+                                                                                                                                                                                                
+                                                                                                                                                                                                                                           ");
             Console.WriteLine();
             Console.WriteLine("1 - Adicionar Lanche");
             Console.WriteLine("2 - Adicionar Bebida");
